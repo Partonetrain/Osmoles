@@ -1,0 +1,8 @@
+{
+  "name" : "fullgrey",
+  "category" : "osmolepet",
+  "type" : "body",
+  "frames" : {
+    "body" : "fullgrey.png"
+  }
+}

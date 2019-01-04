@@ -1,0 +1,29 @@
+{
+  "objectName" : "osmolebannersmall",
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 50,
+  "printable" : false,
+  "description" : "A small osmole wallbanner from a osmole academy.",
+  "shortdescription" : "Small osmole Wall Banner",
+  "race" : "osmole",
+  "apexDescription" : "This banner is small...",
+  "avianDescription" : "A small banner",
+  "floranDescription" : "Floran likesss thisss.",
+  "glitchDescription" : "Charmed. A small osmole banner...",
+  "humanDescription" : "The osmole banner quite lovely.",
+  "hylotlDescription" : "The banner is just lovely.",
+  "novakidDescription" : "This would look great in my house.",
+  "osmoleDescription" : "I am so happy to see the osmole culture thrive",  
+  "inventoryIcon" : "osmolebannersmallicon.png",
+  "orientations" : [
+    {
+      "image" : "osmolebannersmall.png:<color>",
+      "imagePosition" : [2, -2],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+      "spaceScan" : 0.1,
+      "anchors" : []
+    }
+  ]
+}

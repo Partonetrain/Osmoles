@@ -1,0 +1,16 @@
+[
+	{ "op" : "add",
+		"path" : "/speciesShips/osmole",
+		"value" : [
+		    "/ships/osmole/osmolet0.structure",
+			"/ships/osmole/osmolet1.structure",
+			"/ships/osmole/osmolet2.structure",
+			"/ships/osmole/osmolet3.structure",
+			"/ships/osmole/osmolet4.structure",
+			"/ships/osmole/osmolet5.structure",
+			"/ships/osmole/osmolet6.structure",
+			"/ships/osmole/osmolet7.structure",
+			"/ships/osmole/osmolet8.structure"
+		]
+	}
+]

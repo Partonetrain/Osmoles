@@ -1,0 +1,21 @@
+{
+  "config" : {
+    "shipUpgrades" : {
+      "capabilities" : ["teleport", "planetTravel", "systemTravel"],
+      "crewSize" : 12
+    }
+  },
+  "backgroundOverlays" : [
+    {
+      "image" : "osmoleT8.png",
+      "position" : [5.875, 13.5],
+      "fullbright" : true
+    },
+    {
+      "image" : "osmoleT8lit.png",
+      "position" : [5.875, 13.5]
+    }
+  ],
+  "blockKey" : "blockKey.config:blockKey",
+  "blockImage" : "osmoleT8blocks.png"
+}

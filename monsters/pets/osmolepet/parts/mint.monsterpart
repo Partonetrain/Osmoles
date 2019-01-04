@@ -1,0 +1,8 @@
+{
+  "name" : "mint",
+  "category" : "osmolepet",
+  "type" : "body",
+  "frames" : {
+    "body" : "mint.png"
+  }
+}

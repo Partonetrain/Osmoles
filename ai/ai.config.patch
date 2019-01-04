@@ -1,0 +1,10 @@
+[{
+		"op" : "add",
+		"path" : "/species/osmole",
+		"value" : {
+			"aiFrames" : "osmoleAI.png",
+			"portraitFrames" : "portraits/osmoleportrait.png",
+			"staticFrames" : "staticosmole.png"	
+		}
+	}
+]

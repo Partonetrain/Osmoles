@@ -1,0 +1,17 @@
+[
+	{
+		"op": "add",
+		"path": "/initialquests/osmole",
+		"value": [
+			"protectorate"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/pronounGenders/osmole",
+		"value": {
+			"male": "neutral",
+			"female": "neutral"
+		}
+	}
+]
